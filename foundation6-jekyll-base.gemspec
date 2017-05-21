@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kevin Ball"]
   spec.email         = ["kmball11@gmail.com"]
 
-  spec.summary       = %q{An essentially empty Jekyll theme built on Foundation 6.3. Intended to kickstart other themes or for completely custom sites.}
+  spec.summary       = %q{An essentially empty Jekyll theme built on Foundation 6.3.1. Intended to kickstart other themes or for completely custom sites.}
   spec.homepage      = "https://github.com/kball/foundation6-jekyll-base"
   spec.license       = "MIT"
 
